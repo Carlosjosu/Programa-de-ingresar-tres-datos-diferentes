@@ -16,7 +16,7 @@ int main ()
     //Al usar printf muestro en pantalla algunas frases o numeros que quiero que el usuario vea para que sepa que tiene que hacer.
     printf(" Bienvenido estimado Usuario\n");
 
-    printf(" Ingrese un numero entero \n")
+    printf(" Ingrese un numero entero \n");
 
     //Al usar scanf almaceno lo que el usuario ingresa por teclado para despues usarlo en el programa y hacer los calculos necesarios.
     scanf("%i", &n1);
